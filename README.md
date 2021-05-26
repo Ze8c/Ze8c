@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-[![](https://github-readme-stats.vercel.app/api?username=ze8c&count_private=true&show_icons=true&theme=quark&border_radius=12)](https://github.com/ze8c/master)
+![](https://github-readme-stats.vercel.app/api?username=ze8c&count_private=true&show_icons=true&theme=quark&border_radius=12)
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze8c&layout=compact)](https://github.com/ze8c/master)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze8c&layout=compact)
 
 <!--
 **Ze8c/Ze8c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
